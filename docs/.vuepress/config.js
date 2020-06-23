@@ -71,7 +71,10 @@ module.exports = {
         {
           title: "中級編",
           collapsable: true,
-          children: ["/intermediate/start", "/intermediate/vue-introduction"],
+          children: [
+            "/intermediate/start",
+            "/intermediate/vuejs-beginners-guide",
+          ],
         },
         {
           title: "上級編",

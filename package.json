@@ -10,7 +10,8 @@
   "repository": "/uiux-handson",
   "scripts": {
     "dev": "vuepress dev docs",
-    "build": "vuepress build docs"
+    "build": "vuepress build docs",
+    "deploy": "firebase deploy"
   },
   "license": "MIT",
   "devDependencies": {
